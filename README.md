@@ -6,7 +6,7 @@
 
 <br>
 
-[![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avicr01&show_icons=true&theme=aura_dark&count_private=true)](https://github.com/Avicr01/github-readme-stats)
+[![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=avi-2-avi&show_icons=true&theme=aura_dark&count_private=true)](https://github.com/Avicr01/github-readme-stats)
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avicr01&layout=compact&theme=nightowl)](https://github.com/Avicr01/github-readme-stats)
 --->
