@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Avi 🇵🇪
+- 👋 Hi, I’m Avi 
 - 📚 I’m currently learning AWS, GraphQL, Blockchain and French.
 - 💙 I enjoy playing around Linux and reading :penguin: 
 - 🌱 I’m working in [Agros](https://agros.tech/) as a Backend Engineer.
