@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Avi 
+- 💻 I’m a Backend Engineer interested in Software Architecture.
 - 📚 I’m currently learning AWS, GraphQL, Blockchain and French.
 - 💙 I enjoy playing around Linux and reading :penguin: 
-- 💻 I’m a Backend Engineer interested in Software Architecture.
 - ✨ Nice to meet y'all! ✨ ¡Un gusto en conocerlos! ✨ Ravi de vous rencontrer! ✨
 
 <br>
@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,aws,linux,docker,postgres,graphql,fastapi,figma,cpp,git,neovim,react,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=py,aws,linux,docker,postgres,mongodb,mysql,graphql,fastapi,figma,cpp,git,neovim,react,vscode,visualstudio" />
   </a>
 </p>
 
