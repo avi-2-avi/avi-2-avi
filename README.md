@@ -6,6 +6,10 @@
 
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=avi-2-avi&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=C4A7E7&fire=EBBCBA&sideNums=C4A7E7&sideLabels=C4A7E7&dates=FFFFFF&currStreakLabel=9CCFD8&currStreakNum=9CCFD8)](https://git.io/streak-stats)
+
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
