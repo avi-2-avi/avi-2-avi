@@ -6,7 +6,13 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=avi-2-avi&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=C4A7E7&fire=EBBCBA&sideNums=C4A7E7&sideLabels=C4A7E7&dates=FFFFFF&currStreakLabel=9CCFD8&currStreakNum=9CCFD8)](https://git.io/streak-stats)
+<h3 align="left">🧮 My Stats:</h3>
+
+<p align="center"> 
+
+<img src="https://streak-stats.demolab.com?user=avi-2-avi&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=C4A7E7&fire=EBBCBA&sideNums=C4A7E7&sideLabels=C4A7E7&dates=FFFFFF&currStreakLabel=9CCFD8&currStreakNum=9CCFD8"/>
+
+</p>
 
 <br>
 
@@ -14,19 +20,22 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,aws,linux,docker,postgres,mongodb,mysql,graphql,fastapi,figma,cpp,git,neovim,react,vscode,visualstudio" />
   </a>
 </p>
 
-<h3 align="left">What I'm currently learning:</h3>
+<h3 align="left">🔮 What I'm currently learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,go,rust,ts" />
   </a>
 </p>
+
+<br>
+<h3 align="left">📫 Contact me:</h3>
 
 <div align="center" style="text-align:center">
     <a href="mailto:avicon95@protonmail.com">
@@ -42,8 +51,10 @@
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Avi's LinkedIn">
     </a>
+    <a href="https://www.hackerrank.com/avi_con"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </div>  
 
+<br>
 
 <h1 align="center">Have a good day!</a><br/><br/> 
 
