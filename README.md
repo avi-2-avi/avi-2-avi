@@ -2,7 +2,7 @@
 - 💻 I’m a Backend Engineer interested in Software Architecture.
 - 📚 I’m currently learning AWS, GraphQL, Blockchain and French.
 - 💙 I enjoy playing around Linux and reading :penguin: 
-- ✨ Nice to meet y'all! ✨ ¡Un gusto en conocerlos! ✨ Ravi de vous rencontrer! ✨
+- ✨ Nice to meet y'all! ✨ ¡Un gusto en conocerlos! ✨ Ravi de vous rencontrer! ✨ 
 
 <br>
 
