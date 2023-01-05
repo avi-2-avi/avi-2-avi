@@ -40,10 +40,6 @@
 <h3 align="left">📫 Contact me:</h3>
 
 <div align="center" style="text-align:center">
-    <a href="mailto:avicon95@protonmail.com">
-        <img src="https://img.shields.io/badge/-Protonmail-263162?style=for-the-badge&logo=Protonmail&logoColor=white"
-            alt="Avi's Mail">
-    </a>
     <a>
         <img src="https://img.shields.io/badge/-Avi%234735-404EED?style=for-the-badge&logo=Discord&logoColor=white"
             alt="Avi's Discord">
