@@ -16,7 +16,9 @@
 
 <br>
 
-[![Avi's github activity graph](https://activity-graph.herokuapp.com/graph?username=avi-2-avi&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Avi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avi-2-avi&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <br>
 
