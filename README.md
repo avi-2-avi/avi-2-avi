@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Avi 
-- 💻 I’m a Backend Engineer interested in Software Architecture.
-- 📚 I’m currently learning AWS, GraphQL, Blockchain and French.
-- 💙 I enjoy playing around Linux and reading :penguin: 
-- ✨ Nice to meet y'all! ✨ ¡Un gusto en conocerlos! ✨ Ravi de vous rencontrer! ✨ 
+<h2>Avi2Avi</h2> 
+ 
+ Hey, this is Avi! I'm a developer looking to show my work and to learn from others in this awesome platform. I enjoy playing around Linux, reading and sleeping.
+
+✨ Nice to meet y'all! ✨ ¡Un gusto en conocerlos! ✨ Ravi de vous rencontrer! ✨ 
 
 <br>
 
