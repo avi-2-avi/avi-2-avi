@@ -1,4 +1,4 @@
-<h2>Avi2Avi</h2> 
+<h2>Cristina Vidal (Avi)</h2> 
 
 Hey, this is Avi! I'm a developer looking to show my work and to learn from others in this awesome platform. I enjoy playing around Linux, reading and sleeping.
  
@@ -7,6 +7,7 @@ Things to know about me:
 * I'm specializing in Systems and Industrial Engineering
 * But I find Software development more entertaining
 * I've worked in Backend before
+* Currently doing Full-Stack projects
 
 
 ✨ Nice to meet y'all! ✨ ¡Un gusto en conocerlos! ✨ Ravi de vous rencontrer! ✨ 
