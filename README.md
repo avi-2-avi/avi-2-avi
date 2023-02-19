@@ -33,8 +33,14 @@ Things to know about me:
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,aws,linux,docker,postgres,mongodb,mysql,graphql,fastapi,figma,cpp,git,neovim,react,vscode,visualstudio&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,aws,linux,docker,postgres,mongodb,mysql,graphql,fastapi,figma,cpp,git,react,astro&perline=7" />
   </a>
+ 
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio&perline=6" />
+  </a>
+  
 </p>
 
 <h3 align="left">🔮 What I'm currently learning:</h3>
