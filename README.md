@@ -46,7 +46,7 @@ Things to know about me:
 <h3 align="left">🔮 What I'm currently learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,rust,django,nextjs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,rust,express,nextjs&perline=10" />
   </a>
 </p>
 
