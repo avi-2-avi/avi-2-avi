@@ -1,14 +1,12 @@
 <h2>Cristina Vidal (Avi)</h2> 
 
-Hey, this is Avi! I'm a developer looking to show my work and to learn from others in this awesome platform. I enjoy playing around Linux, reading and sleeping.
+Hey, this is Avi! I enjoy playing around MacOS/Linux, reading and sleeping.
  
 Things to know about me:
 
-* I'm specializing in Systems and Industrial Engineering
-* But I find Software development more entertaining
-* I've worked in Backend before
-* Currently doing Full-Stack projects
-
+* Specializing in Systems and Software Engineering
+* Have experience with Frontend and Backend development
+* Currently working as a Software Technical Engineer
 
 ✨ Nice to meet y'all! ✨ ¡Un gusto en conocerlos! ✨ Ravi de vous rencontrer! ✨ 
 
@@ -24,7 +22,7 @@ Things to know about me:
 
 <br>
 
-[![Avi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avi-2-avi&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Avi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avi-2-avi&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -33,12 +31,7 @@ Things to know about me:
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,aws,linux,docker,postgres,mongodb,mysql,graphql,fastapi,cpp,git,react,nextjs,astro&perline=7" />
-  </a>
- 
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ts,py,azure,aws,linux,docker,postgres,mongodb,mysql,graphql,fastapi,cpp,git,react,nextjs,astro,angular,java,neovim,vscode,visualstudio&perline=7" />
   </a>
   
 </p>
@@ -46,7 +39,7 @@ Things to know about me:
 <h3 align="left">🔮 What I'm currently learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,java,rust,express&perline=10" />
+    <img src="https://skillicons.dev/icons?i=vue,rust,express&perline=10" />
   </a>
 </p>
 
