@@ -5,8 +5,8 @@ Hey, this is Avi! I enjoy playing around MacOS/Linux, reading and sleeping.
 Things to know about me:
 
 * Specializing in Systems and Software Engineering
-* Have experience with Frontend and Backend development
-* Currently working as a Software Technical Engineer
+* Have experience with Frontend, Backend and Cloud
+* Currently working as a Cloud Engineer
 
 ✨ Nice to meet y'all! ✨ ¡Un gusto en conocerlos! ✨ Ravi de vous rencontrer! ✨ 
 
@@ -31,7 +31,7 @@ Things to know about me:
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,azure,aws,linux,docker,postgres,mongodb,mysql,graphql,fastapi,cpp,git,react,nextjs,astro,angular,java,neovim,vscode,visualstudio&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,py,azure,aws,linux,docker,postgres,mongodb,mysql,graphql,fastapi,cpp,git,react,nextjs,astro,angular,java,neovim,vscode,visualstudio,vue,nuxtjs&perline=7" />
   </a>
   
 </p>
@@ -39,7 +39,7 @@ Things to know about me:
 <h3 align="left">🔮 What I'm currently learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,rust,express&perline=10" />
+    <img src="https://skillicons.dev/icons?i=swift,rust,express&perline=10" />
   </a>
 </p>
 
