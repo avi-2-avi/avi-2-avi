@@ -6,7 +6,6 @@ Things to know about me:
 
 * Specializing in Systems and Software Engineering
 * Have experience with Frontend, Backend and Cloud
-* Currently working as a Cloud Engineer
 
 ✨ Nice to meet y'all! ✨ ¡Un gusto en conocerlos! ✨ Ravi de vous rencontrer! ✨ 
 
