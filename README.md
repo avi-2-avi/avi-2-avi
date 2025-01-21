@@ -11,16 +11,6 @@ Things to know about me:
 
 <br>
 
-<h3 align="left">🧮 My Stats:</h3>
-
-<p align="center"> 
-
-<img src="https://streak-stats.demolab.com?user=avi-2-avi&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=C4A7E7&fire=EBBCBA&sideNums=C4A7E7&sideLabels=C4A7E7&dates=FFFFFF&currStreakLabel=9CCFD8&currStreakNum=9CCFD8"/>
-
-</p>
-
-<br>
-
 [![Avi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avi-2-avi&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -30,7 +20,7 @@ Things to know about me:
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,azure,aws,linux,docker,terraform,postgres,mongodb,mysql,graphql,fastapi,django,cpp,git,react,nextjs,astro,angular,tailwind,java,neovim,vscode,visualstudio,vue,nuxtjs,golang&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,py,azure,aws,linux,docker,terraform,postgres,mongodb,mysql,graphql,fastapi,django,cpp,git,react,nextjs,astro,angular,tailwind,java,neovim,vscode,visualstudio,vue,nuxtjs,golang,tensorflow&perline=7" />
   </a>
   
 </p>
@@ -38,7 +28,7 @@ Things to know about me:
 <h3 align="left">🔮 What I'm currently learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,kubernetes,php&perline=10" />
+    <img src="https://skillicons.dev/icons?i=rust,kubernetes,pytorch&perline=10" />
   </a>
 </p>
 
