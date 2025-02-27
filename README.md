@@ -4,7 +4,7 @@ Hey, this is Avi! I enjoy playing around MacOS/Linux, reading and sleeping.
  
 Things to know about me:
 
-* Specializing in MLOps and Deep Learning solutions
+* Specializing in Software Engineering and MLOps.
 * Have experience with Software and Cloud Engineering
 
 ✨ Nice to meet y'all! ✨ ¡Un gusto en conocerlos! ✨ Ravi de vous rencontrer! ✨ 
