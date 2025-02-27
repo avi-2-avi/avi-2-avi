@@ -20,7 +20,7 @@ Things to know about me:
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,azure,aws,linux,docker,terraform,postgres,mongodb,mysql,graphql,fastapi,django,cpp,git,react,nextjs,astro,angular,tailwind,java,neovim,vscode,visualstudio,vue,nuxtjs,golang,tensorflow&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,py,azure,aws,linux,docker,terraform,postgres,mongodb,mysql,graphql,fastapi,django,cpp,git,react,nextjs,astro,angular,tailwind,java,neovim,vscode,visualstudio,vue,nuxtjs,golang&perline=7" />
   </a>
   
 </p>
@@ -28,7 +28,7 @@ Things to know about me:
 <h3 align="left">🔮 What I'm currently learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,kubernetes,pytorch&perline=10" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,rust,kubernetes&perline=10" />
   </a>
 </p>
 
