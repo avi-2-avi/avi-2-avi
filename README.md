@@ -1,6 +1,6 @@
 <h2>Cristina Vidal</h2> 
 
-<h4>Hi, I'm Cristina Vidal, a Software Developer from Peru with a strong focus on data-driven solutions and Machine Learning. I hold a B.Sc. in Systems Engineering and have built most of my career in startup environments, where I've worked across Software Development and Cloud Engineering roles.</h4>
+<p>Hi, I'm Cristina Vidal, a Software Developer from Peru with a strong focus on data-driven solutions and Machine Learning. I hold a B.Sc. in Systems Engineering and have built most of my career in startup environments, where I've worked across Software Development and Cloud Engineering roles.</p>
 
 <h2 align="center">Have a good day!</a><br/><br/> 
 
